@@ -1,4 +1,4 @@
-# 🪙 Gold Recovery Prediction Model
+# :moneybag: Gold Recovery Prediction Model
 
 ## 🧠 Description
 This project aims to build a predictive model that helps a mining company estimate the amount of gold recovered from gold ore using historical production data.  
@@ -16,4 +16,4 @@ The objective is to improve production efficiency, understand process behavior, 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+   git clone https://github.com/jpcampos04/Sprint12_project.git
