@@ -14,6 +14,6 @@ The objective is to improve production efficiency, understand process behavior, 
 - Jupyter Notebook  
 
 ## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/jpcampos04/Sprint12_project.git
+```bash
+git clone https://github.com/jpcampos04/2507_predictive_model_gold_recovery.git
+jupyter notebook 2507_predictive_model_gold_recovery.ipynb
